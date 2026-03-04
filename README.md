@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Petra</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hello, I'm Petra</h1>
+<h3 align="center">ᔑ  !¡ᔑᓭᓭ╎𝙹リᔑℸ ̣ ᒷ  ⎓∷𝙹リℸ ̣ ᒷリ↸  ↸ᒷ⍊ᒷꖎ𝙹!¡ᒷ∷  ⎓∷𝙹ᒲ  ╎リ↸𝙹リᒷᓭ╎ᔑ</h3>
 
 - 📫 How to reach me **rafirazanakmaluzzuhair@gmail.com**
 
