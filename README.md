@@ -16,7 +16,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,docker,git,robloxstudio,bash,replit,html,css,js,py,fastapi,php,mysql,figma,ae,ps,pr,au,ai,&perline=23)](https://skillicons.dev) 
