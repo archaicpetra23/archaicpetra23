@@ -2,6 +2,8 @@
   <img src="./assets/name-banner.gif" alt="banner" width="100%" />
 </p>
 
+---
+
 <p align="center">
   <img src="./assets/archaicpetra23-space.gif" alt="archaicpetra23 space animation" width="100%" />
 </p>
