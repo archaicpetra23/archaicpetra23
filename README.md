@@ -1,8 +1,11 @@
-<h1 align="center">Razan Rafi Akmaluzzuhair</h1>
+<p align="center">
+  <img src="./assets/name-banner.gif" alt="banner" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Mahasiswa+IT+di+Pradita+University;Backend+Developer+%7C+Go+%26+Node.js;Full-Stack+Engineer+%7C+Vue+3+%26+Next.js;Membangun+sistem+yang+andal+dan+mudah+dirawat" alt="Typing SVG" /></a>
+  <img src="./assets/archaicpetra23-space.gif" alt="archaicpetra23 space animation" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/archaicpetra23"><img src="https://img.shields.io/badge/GitHub-archaicpetra23-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
